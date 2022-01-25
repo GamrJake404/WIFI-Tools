@@ -7,7 +7,7 @@ Credits-
     Wifite - Intro
 
 How To Use-
-    `python "WIFI Tools.py`
+    `python "WIFI Tools.py"`
     All other instructions will be given inside application
 
 WIFI Brute Force-
